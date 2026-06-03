@@ -72,11 +72,13 @@ Criação de botões de navegação para melhorar a experiência do usuário ent
 
 ### Tela Inicial
 
-![Tela Inicial](images/tela-inicial.png)
+![Tela Inicial](HomePage.png)
 
 ### Dashboard Financeiro
 
-![Dashboard Financeiro](images/dashboard-financeiro.png)
+![Dashboard Financeiro](Page1.png)
+
+![Dashboard Financeiro](page2.png)
 
 ## Principais Aprendizados
 
