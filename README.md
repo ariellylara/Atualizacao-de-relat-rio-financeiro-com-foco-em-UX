@@ -83,8 +83,3 @@ Criação de botões de navegação para melhorar a experiência do usuário ent
 ## Principais Aprendizados
 
 Este projeto demonstrou como a aplicação de conceitos de UX pode tornar relatórios mais intuitivos e eficientes. Pequenas melhorias na organização dos elementos, contraste visual e navegação contribuem significativamente para uma melhor experiência de análise e interpretação dos dados.
-
-
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Dados, Business Intelligence e Visualização de Dados.
-
-🔗 Conecte-se comigo no LinkedIn: *(adicione seu link aqui)*
